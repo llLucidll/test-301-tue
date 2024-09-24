@@ -1,2 +1,2 @@
 # test-301-tue
-Hello 
+This is a 301 lab on Tuesday
